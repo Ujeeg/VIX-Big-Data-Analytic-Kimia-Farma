@@ -31,6 +31,9 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 ![alt text](Query.png)
 Source : https://console.cloud.google.com/bigquery?sq=840030902480:d9c774cb557840df91507025993d45d8
 
+Di hasilkan Tabel Final 
+
+
 ### Visualisasi Data
 ![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/fcbaf4e9b7287c0ab39bb387806946a8ac9e2290/Dashboard%202.png)
 Source : https://public.tableau.com/app/profile/ujeeg/viz/VIX_16774837666190/Dashboard2
