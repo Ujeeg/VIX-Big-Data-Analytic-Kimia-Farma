@@ -1,9 +1,10 @@
 # VIX BIG DATA ANALYTIC KIMIA FARMA
 
-## LATAR BELAKANG DAN OBJECTIVE
-Stack holder meminta analyst untuk membuat visualisasi penjualan barang 
+Stack holder meminta analyst untuk membuat visualisasi penjualan barang
+Data berasal dari Kimia Farma
 
-## RISET
+
+## PROBLEM
 1. Bagaimana penjualan obat dalam 6 bulan terakhir
 2. Daerah mana saja yang penjulannya memiliki revenue tertinggi
 3. Jenis Obat apa saja yang penjualannya memiliki revenue tertinggi
