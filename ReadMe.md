@@ -23,5 +23,5 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 5. Joint table Penjualan, Pelanggan dan Barang menjadi Final_Table
 ![alt text](Query.png)
 
-
+### Visualisasi Data
 
