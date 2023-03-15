@@ -21,7 +21,7 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 3. Merubah Harga menjadi FLOAT64
 4. Meubah tanggal menjadi format date part
 5. Joint table Penjualan, Pelanggan dan Barang menjadi Final_Table
-https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/b28ea1a4debdb72a7d9441fad5014569df788403/Query.png
+![alt text](.Query.png)
 
 
 
