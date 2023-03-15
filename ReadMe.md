@@ -14,10 +14,10 @@ Pada project kali ini data yang di gunakan ada 3 data yaitu terdiri dari :
 ![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/a35031dff16b9c95590606a67a0e0e03367c2c20/Data%20Penjualan.png)
 
 2. Sheet Pelanggan terdiri dari 7 column dan 350 row
-![alt text]([Data Pelanggan.png](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/a35031dff16b9c95590606a67a0e0e03367c2c20/Data%20Pelanggan.png))
+![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/a35031dff16b9c95590606a67a0e0e03367c2c20/Data%20Pelanggan.png)
 
 3. Sheet Barang terdiri dari 8 column dan 10 row
-![alt text]([data barang.png](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/a35031dff16b9c95590606a67a0e0e03367c2c20/data%20barang.png))
+![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/a35031dff16b9c95590606a67a0e0e03367c2c20/data%20barang.png)
 
 
 ## Pengolahan Data
