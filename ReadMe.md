@@ -30,4 +30,4 @@ Source : https://public.tableau.com/app/profile/ujeeg/viz/VIX_16774837666190/Das
 1. Pada visualisasi dapat dilihat bahwa revenue selama 6 bulan terjadi penurunan
 2. Obat yang paling banyak di beli oleh customer adalah Ampicilin dan Acylovir dus
 3. Obat yang paling banyak menghasilkan revenue adalah Ampicilin dan Tramadol Kapsul 50 Mg
-4. Revenue paling tinggi terdapat di jakarta
+4. Revenue paling tinggi terdapat di Jakarta dan Kuningan
