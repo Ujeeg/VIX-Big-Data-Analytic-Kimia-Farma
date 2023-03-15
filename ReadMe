@@ -20,6 +20,7 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 2. Merubah jumlah barang menjadi INT64
 3. Merubah Harga menjadi FLOAT64
 4. Meubah tanggal menjadi format date part
-
+5. Joint table Penjualan, Pelanggan dan Barang menjadi Final_Table
+Query.png
 
 
