@@ -24,5 +24,6 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 ![alt text](Query.png)
 
 ### Visualisasi Data
+
 ![alt text](Dashboard 2.png)
 
