@@ -24,5 +24,5 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 ![alt text](Query.png)
 
 ### Visualisasi Data
-![alt text]((https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/fcbaf4e9b7287c0ab39bb387806946a8ac9e2290/Dashboard%202.png)
+![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/fcbaf4e9b7287c0ab39bb387806946a8ac9e2290/Dashboard%202.png)
 
