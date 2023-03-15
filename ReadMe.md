@@ -28,6 +28,7 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 4. Meubah tanggal menjadi format date part
 5. Joint table Penjualan, Pelanggan dan Barang menjadi Final_Table
 ![alt text](Query.png)
+Source : https://console.cloud.google.com/bigquery?sq=840030902480:d9c774cb557840df91507025993d45d8
 
 ### Visualisasi Data
 ![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/fcbaf4e9b7287c0ab39bb387806946a8ac9e2290/Dashboard%202.png)
