@@ -12,8 +12,10 @@ Stack holder meminta analyst untuk membuat visualisasi penjualan barang
 Pada project kali ini data yang di gunakan ada 3 data yaitu terdiri dari :
 1. Sheet Penjualan terdiri dari 12 column dan 350 row
 ![alt text](Data Penjual.png)
+
 2. Sheet Pelanggan terdiri dari 7 column dan 350 row
 ![alt text](Data Pelanggan.png)
+
 3. Sheet Barang terdiri dari 8 column dan 10 row
 ![alt text](data barang.png)
 
