@@ -1,7 +1,7 @@
 # VIX BIG DATA ANALYTIC KIMIA FARMA
 
-Stack holder meminta analyst untuk membuat visualisasi penjualan barang
-Data berasal dari Kimia Farma
+- Stack holder meminta analyst untuk membuat visualisasi penjualan barang
+- Data berasal dari Kimia Farma
 
 
 ## PROBLEM
