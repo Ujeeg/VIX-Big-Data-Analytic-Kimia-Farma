@@ -32,11 +32,12 @@ Pada proses ini terdapat beberapa data yang di aggregasi dan diubah formatnya
 Source : https://console.cloud.google.com/bigquery?sq=840030902480:d9c774cb557840df91507025993d45d8
 
 Di hasilkan Tabel Final 
-
+![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/57b51549fe2712b3b9a0f722d63efc0b6ce7a757/Tabel%20Final.png)
+source : https://docs.google.com/spreadsheets/d/1fTLyGynPHIm7aZG6ZkbxIaCFqokOcVLgLi3FgRqhQpw/edit#gid=2084330240
 
 ### Visualisasi Data
 ![alt text](https://github.com/Ujeeg/VIX-Big-Data-Analytic-Kimia-Farma/blob/fcbaf4e9b7287c0ab39bb387806946a8ac9e2290/Dashboard%202.png)
-Source : https://public.tableau.com/app/profile/ujeeg/viz/VIX_16774837666190/Dashboard2
+Source : https://docs.google.com/spreadsheets/d/1fTLyGynPHIm7aZG6ZkbxIaCFqokOcVLgLi3FgRqhQpw/edit?usp=sharing
 
 1. Pada visualisasi dapat dilihat bahwa revenue selama 6 bulan terjadi penurunan
 2. Obat yang paling banyak di beli oleh customer adalah Ampicilin dan Acylovir dus
